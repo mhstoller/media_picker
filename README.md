@@ -9,7 +9,7 @@ Flutter Plugin for Capturing and Selecting Photos and Videos.
 ```
 media_picker:
     git:
-      url: git://github.com/AppleEducate/media_picker
+      url: git://github.com/mhstoller/media_picker
 ```
 ## Import
 ```
